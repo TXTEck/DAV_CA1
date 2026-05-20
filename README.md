@@ -66,7 +66,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_LINK_HERE
+git clone https://github.com/TXTEck/DAV_CA1
 ```
 
 2. Navigate to the project folder:
@@ -106,4 +106,4 @@ The project also includes visualisations showing:
 
 ## Credits
 
-The dataset used in this project was sourced from Kaggle / Baselight.
+The dataset used in this project was sourced from Kaggle: https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024
